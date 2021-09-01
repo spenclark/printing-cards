@@ -13,8 +13,7 @@ Spencer Clark - spenclark@hotmail.com - +1(250)893-1020 - [Github](https://githu
 ### Objectives
 Design and ship a modern web app demo for the InstantCard team. Research done on the InstantCard product & industry informs that users convert much better when they are given sample cards. I should go about designing and building with the intent improve on the current sample / lead generation flow + steamline/aim for readability of the landing page copy and assets. 
 
-**Post Sprint Notes**
-I did some research on google search trends. I think the SEO results for a product "Free Employee ID designer" would drive good traffic. 
+**Post Sprint Notes:** __I did some research on google search trends. I think the SEO results for a product "Free Employee ID designer" would drive good traffic.__
 
 ### Technologies
 This Web App was built with the following tools and libraries:
