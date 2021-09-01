@@ -4,7 +4,7 @@ This project is deployed live on AWS [View Here](https://github.com/facebook/cre
 
 ### Contributor(s)
 
-Spencer Clark - spenclark@hotmail.com - +1(250)893-1020 - [Github](https://github.com)(https://github.com/spenclark) - [LinkedIn](https://www.linkedin.com/in/spenclark/?_l=en_US)
+Spencer Clark - spenclark@hotmail.com - +1(250)893-1020 - [Github](https://github.com) - [LinkedIn](https://www.linkedin.com/in/spenclark/?_l=en_US)
 
 ### Index
 - [Objectives](#Objectives)
