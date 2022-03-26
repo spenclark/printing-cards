@@ -1,6 +1,6 @@
 # InstantCard Demo App
 
-This project is deployed live on AWS [View Here](https://github.com/facebook/create-react-app). All work here is just intented to demonstrate my ideas and work.
+This project is deployed live [View Here](https://github.com/facebook/create-react-app). All work here is just intented to demonstrate my ideas and work.
 
 ### Contributor(s)
 
